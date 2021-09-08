@@ -21,3 +21,5 @@ diagram helps to get to branches
 some changes are branched from master and there may be few changes that are not reachable
 so graphical diagrams shows all the branches
 git merge f1 f2 merges to branches that merges f2 in f1 comparing whith the common parent branch
+git manual merge allows us to keep all the changes that we want and we could declare which change is effective
+as git could not effectively determine th effective way
