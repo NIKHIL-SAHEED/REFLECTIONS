@@ -6,3 +6,6 @@ clone is copying the whole repository from github to system or system to system
 forking is directly getting the repository via git hub
 having last stored locally can have a real copy and others can work on different copies
 and whn combined all copies can be compared to the one stored locally which dose not change
+collabration without git hub would be difficult 
+git hub allows us to view changes made and pull requsts can be added which can checked
+by coworkers and only accepted if the change is aacceptable and also comments can be made on pull requsts
