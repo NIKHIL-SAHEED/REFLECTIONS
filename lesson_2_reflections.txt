@@ -17,3 +17,6 @@ it hels to alternativey edit the file
 like for creating an experimental 
 oe to create a alternate langauge version 
 so that the main file is not messed up
+diagram helps to get to branches  
+some changes are branched from master and there may be few changes that are not reachable
+so graphical diagrams shows all the branches
