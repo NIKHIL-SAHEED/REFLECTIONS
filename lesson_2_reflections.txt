@@ -1,0 +1,6 @@
+when i initialize a repository the files on that folder 
+are being tracked by the git repository
+staging area is where we could add things before we commit
+it also shows status aftr init it is on staging area which is a part of git
+git add and git status operates on staging area 
+stats works both on staging area and working directory
