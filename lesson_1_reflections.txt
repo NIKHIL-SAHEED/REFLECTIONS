@@ -1,0 +1,25 @@
+diff showed the difference btwn old and new file
+its good since only changed line are visble 
+makes us easier to find the difference in projects
+some have history in it like google doc shows when and who has made a change in the files
+commit
+its is good to commit manually
+so we decide when and where to commit
+commits shoud not be too long or short
+if too long we have to keep searching in big codes
+also early commits increases the number of coding changes
+it is allways bttr to commit a project aftr a logical change
+no 2 bug fix should be commited togather
+all same typo should be commited togather
+git allows saving multiple document in 1 commit because
+in git the files are commited togatherly
+and there might me files that are linked to each other
+where as in google doc files are separate from each other 
+the donot have linked files so commits single documents
+and only can change the codes in a single document
+git log and git diff
+git log shows all commits and git diff shows the commits btwn different version of the file
+using version control to commit helps a lot
+git log would give all the commits made
+from which previos versions can be checked using git checkout
+and  versions details can be compared using git diff
